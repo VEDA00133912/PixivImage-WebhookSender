@@ -1,0 +1,2 @@
+# PixivImage-WebhookSender
+Pixivから指定したユーザーのイラストを取得してwebhookで送信
